@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "TestCoinWeb.data.unityweb",
+"asmCodeUrl": "TestCoinWeb.asm.code.unityweb",
+"asmMemoryUrl": "TestCoinWeb.asm.memory.unityweb",
+"asmFrameworkUrl": "TestCoinWeb.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#805209"
+}
